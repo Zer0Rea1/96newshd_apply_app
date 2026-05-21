@@ -8,3 +8,5 @@ mongoose.connect(process.env.MONGODB_URI)
     app.listen(process.env.PORT || 5000, () => console.log('Server running'))
   })
   .catch(console.error)
+
+module.export = app
