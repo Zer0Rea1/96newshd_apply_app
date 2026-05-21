@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "96 News Admin",
+    "slug": "96news-admin",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.ninenewshd.admin"
+    },
+    "android": {
+      "package": "com.ninenewshd.admin",
+      "permissions": ["RECEIVE_BOOT_COMPLETED", "VIBRATE"],
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": ["expo-notifications"],
+    "extra": {
+      "apiUrl": "http://10.37.236.6:5000"
+    }
+  }
+}

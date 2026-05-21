@@ -1,0 +1,2747 @@
+{
+  "provinces": [
+    {
+      "name": "Azad Kashmir",
+      "districts": [
+        {
+          "name": "Bhimber",
+          "tehsils": [
+            "Bhimber",
+            "Barnala",
+            "Samahni"
+          ],
+          "cities": []
+        },
+        {
+          "name": "Hattian",
+          "tehsils": [
+            "Hattian Bala",
+            "Chikar",
+            "Leepa"
+          ],
+          "cities": []
+        },
+        {
+          "name": "Haveli",
+          "tehsils": [
+            "Haveli",
+            "Khurshidabad",
+            "Mumtazabad"
+          ],
+          "cities": []
+        },
+        {
+          "name": "Kotli",
+          "tehsils": [
+            "Kotli",
+            "Nakyal",
+            "Sehnsa",
+            "Fatehpur Thakiala",
+            "Khuiratta",
+            "Charhoi",
+            "Duliah Jattan"
+          ],
+          "cities": [
+            "Kotli",
+            "Ratta"
+          ]
+        },
+        {
+          "name": "Mirpur",
+          "tehsils": [
+            "Mirpur",
+            "Dadyal",
+            "Islamgarh"
+          ],
+          "cities": [
+            "Dhangri",
+            "Mirpur",
+            "Puna"
+          ]
+        },
+        {
+          "name": "Muzaffarabad",
+          "tehsils": [
+            "Muzaffarabad",
+            "Nasirabad"
+          ],
+          "cities": []
+        },
+        {
+          "name": "Neelum",
+          "tehsils": [
+            "Athmuqam",
+            "Sharda"
+          ],
+          "cities": []
+        },
+        {
+          "name": "Poonch",
+          "tehsils": [
+            "Rawalakot",
+            "Thorar",
+            "Hajira",
+            "Abbaspur"
+          ],
+          "cities": [
+            "Rawalakot"
+          ]
+        },
+        {
+          "name": "Sudhnati",
+          "tehsils": [
+            "Pallandri",
+            "Balouch",
+            "Mang",
+            "Tarar Khel"
+          ],
+          "cities": []
+        },
+        {
+          "name": "Bagh",
+          "tehsils": [
+            "Bagh",
+            "Dhirkot",
+            "Hari Ghel",
+            "Rera",
+            "Birpani"
+          ],
+          "cities": [
+            "Bagh"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Balochistan",
+      "districts": [
+        {
+          "name": "Awaran",
+          "tehsils": [
+            "Awaran",
+            "Gishkaur",
+            "Jhal Jhao",
+            "Korak Jahoo",
+            "Mashkay"
+          ],
+          "cities": [
+            "Awaran"
+          ]
+        },
+        {
+          "name": "Barkhan",
+          "tehsils": [
+            "Barkhan",
+            "Rakhni"
+          ],
+          "cities": [
+            "Barkhan"
+          ]
+        },
+        {
+          "name": "Chagai",
+          "tehsils": [
+            "Chagai",
+            "Dalbandin",
+            "Nokundi",
+            "Taftan",
+            "Amuri",
+            "Chilgazi",
+            "Yakmach"
+          ],
+          "cities": []
+        },
+        {
+          "name": "Chaman",
+          "tehsils": [
+            "Chaman",
+            "Chaman Saddar"
+          ],
+          "cities": []
+        },
+        {
+          "name": "Dera Bugti",
+          "tehsils": [
+            "Dera Bugti",
+            "Phelawagh",
+            "Sui",
+            "Baiker"
+          ],
+          "cities": [
+            "Dera Bugti",
+            "Sui"
+          ]
+        },
+        {
+          "name": "Duki",
+          "tehsils": [
+            "Duki",
+            "Luni",
+            "Talao",
+            "Thal Chutyali"
+          ],
+          "cities": []
+        },
+        {
+          "name": "Gwadar",
+          "tehsils": [
+            "Gwadar",
+            "Jiwani",
+            "Ormara",
+            "Pasni",
+            "Suntsar"
+          ],
+          "cities": [
+            "Gwadar"
+          ]
+        },
+        {
+          "name": "Harnai",
+          "tehsils": [
+            "Harnai",
+            "Shahrig",
+            "Khost"
+          ],
+          "cities": []
+        },
+        {
+          "name": "Jafarabad",
+          "tehsils": [
+            "Jaffarabad",
+            "Jhatpat"
+          ],
+          "cities": []
+        },
+        {
+          "name": "Jhal Magsi",
+          "tehsils": [
+            "Jhal Magsi",
+            "Gandawa",
+            "Mirpur"
+          ],
+          "cities": []
+        },
+        {
+          "name": "Kachhi",
+          "tehsils": [
+            "Dhadar",
+            "Bhag",
+            "Mach",
+            "Sani",
+            "Balanari",
+            "Khattan"
+          ],
+          "cities": []
+        },
+        {
+          "name": "Kalat",
+          "tehsils": [
+            "Kalat",
+            "Mangochar",
+            "Surab"
+          ],
+          "cities": [
+            "Kalat"
+          ]
+        },
+        {
+          "name": "Kech",
+          "tehsils": [
+            "Turbat",
+            "Buleda",
+            "Dasht",
+            "Hoshab",
+            "Mand",
+            "Tump",
+            "Balnigor",
+            "Zamuran",
+            "Gayab",
+            "Solband"
+          ],
+          "cities": [
+            "Turbat"
+          ]
+        },
+        {
+          "name": "Kharan",
+          "tehsils": [
+            "Kharan",
+            "Sar-kharan",
+            "Tohumulk",
+            "Patkain"
+          ],
+          "cities": [
+            "Kharan"
+          ]
+        },
+        {
+          "name": "Khuzdar",
+          "tehsils": [
+            "Khuzdar",
+            "Moola",
+            "Nal",
+            "Wadh",
+            "Zehri"
+          ],
+          "cities": [
+            "Khuzdar"
+          ]
+        },
+        {
+          "name": "Killa Abdullah",
+          "tehsils": [
+            "Chaman",
+            "Gulistan",
+            "Killa Abdullah"
+          ],
+          "cities": [
+            "Chaman"
+          ]
+        },
+        {
+          "name": "Killa Saifullah",
+          "tehsils": [
+            "Killa Saifullah",
+            "Loiband",
+            "Muslim Bagh"
+          ],
+          "cities": []
+        },
+        {
+          "name": "Kohlu",
+          "tehsils": [
+            "Kohlu",
+            "Kahan",
+            "Maiwand",
+            "Tamboo",
+            "Shaheed Jahangir Abad",
+            "Grisani"
+          ],
+          "cities": [
+            "Kohlu"
+          ]
+        },
+        {
+          "name": "Lasbela",
+          "tehsils": [
+            "Bela",
+            "Dureji",
+            "Gaddani",
+            "Hub",
+            "Kanraj",
+            "Lakhra",
+            "Liari",
+            "Sonmiani",
+            "Uthal",
+            "Winder"
+          ],
+          "cities": [
+            "Uthal"
+          ]
+        },
+        {
+          "name": "Loralai",
+          "tehsils": [
+            "Loralai",
+            "Bori",
+            "Mekhtar"
+          ],
+          "cities": [
+            "Loralai"
+          ]
+        },
+        {
+          "name": "Mastung",
+          "tehsils": [
+            "Mastung",
+            "Dasht",
+            "Khad Koocha",
+            "Kardigap"
+          ],
+          "cities": [
+            "Mastung"
+          ]
+        },
+        {
+          "name": "Musakhel",
+          "tehsils": [
+            "Musakhel",
+            "Kingri",
+            "Tiyar Essot",
+            "Toisar",
+            "Zimri Plaseen",
+            "Darug"
+          ],
+          "cities": [
+            "Musakhel Bazar"
+          ]
+        },
+        {
+          "name": "Nasirabad",
+          "tehsils": [
+            "Dera Murad Jamali",
+            "Landhi",
+            "Chattar",
+            "Meer Hassan",
+            "Tamboo",
+            "Baba Kot"
+          ],
+          "cities": [
+            "Dera Murad Jamali"
+          ]
+        },
+        {
+          "name": "Nushki",
+          "tehsils": [
+            "Nushki",
+            "Dak"
+          ],
+          "cities": []
+        },
+        {
+          "name": "Panjgur",
+          "tehsils": [
+            "Panjgur",
+            "Paroom",
+            "Gowargo",
+            "Gichk",
+            "Kallag"
+          ],
+          "cities": [
+            "Panjgur"
+          ]
+        },
+        {
+          "name": "Pishin",
+          "tehsils": [
+            "Pishin",
+            "Barshore",
+            "Hurramzai",
+            "Karezat",
+            "Saranan",
+            "Bostan"
+          ],
+          "cities": [
+            "Pishin"
+          ]
+        },
+        {
+          "name": "Quetta",
+          "tehsils": [
+            "Quetta City",
+            "Quetta Sadar",
+            "Chiltan",
+            "Panjpai",
+            "Zarghoon",
+            "Kuchlak"
+          ],
+          "cities": [
+            "Quetta"
+          ]
+        },
+        {
+          "name": "Sherani",
+          "tehsils": [
+            "Sherani"
+          ],
+          "cities": []
+        },
+        {
+          "name": "Sibi",
+          "tehsils": [
+            "Sibi",
+            "Kutmandai",
+            "Sangan",
+            "Lehri"
+          ],
+          "cities": [
+            "Luni",
+            "Sibi"
+          ]
+        },
+        {
+          "name": "Sohbatpur",
+          "tehsils": [
+            "Sohbatpur",
+            "Faridabad",
+            "Hayrvi",
+            "Manjipur",
+            "Saeed Muhammad Kanrani",
+            "Panhwar"
+          ],
+          "cities": []
+        },
+        {
+          "name": "Usta Muhammad",
+          "tehsils": [
+            "Usta Muhammad",
+            "Gandakha"
+          ],
+          "cities": []
+        },
+        {
+          "name": "Washuk",
+          "tehsils": [
+            "Washuk",
+            "Besima",
+            "Mashkel",
+            "Nag",
+            "Shahgori"
+          ],
+          "cities": []
+        },
+        {
+          "name": "Zhob",
+          "tehsils": [
+            "Zhob",
+            "Kakar Khurasan",
+            "Sambaza",
+            "Sherani"
+          ],
+          "cities": [
+            "Zhob"
+          ]
+        },
+        {
+          "name": "Ziarat",
+          "tehsils": [
+            "Ziarat",
+            "Sinjawi"
+          ],
+          "cities": [
+            "Ziarat"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Gilgit Baltistan",
+      "districts": [
+        {
+          "name": "Astore",
+          "tehsils": [
+            "Astore",
+            "Shounter"
+          ],
+          "cities": [
+            "Rupal"
+          ]
+        },
+        {
+          "name": "Diamer",
+          "tehsils": [
+            "Chilas",
+            "Babusar"
+          ],
+          "cities": []
+        },
+        {
+          "name": "Darel",
+          "tehsils": [
+            "Darel"
+          ],
+          "cities": []
+        },
+        {
+          "name": "Ghanche",
+          "tehsils": [
+            "Khaplu",
+            "Mashabrum",
+            "Daghoni",
+            "Chorbat",
+            "Keris",
+            "Haldi"
+          ],
+          "cities": []
+        },
+        {
+          "name": "Ghizer",
+          "tehsils": [
+            "Punial"
+          ],
+          "cities": []
+        },
+        {
+          "name": "Gilgit",
+          "tehsils": [
+            "Gilgit",
+            "Juglot",
+            "Danyor"
+          ],
+          "cities": []
+        },
+        {
+          "name": "Gupis Yasin",
+          "tehsils": [
+            "Gupis",
+            "Yasin",
+            "Phander",
+            "Ishkoman"
+          ],
+          "cities": []
+        },
+        {
+          "name": "Hunza",
+          "tehsils": [
+            "Aliabad",
+            "Gojal"
+          ],
+          "cities": [
+            "Aliabad"
+          ]
+        },
+        {
+          "name": "Kharmang",
+          "tehsils": [
+            "Kharmang"
+          ],
+          "cities": []
+        },
+        {
+          "name": "Nagar",
+          "tehsils": [
+            "Nagar-i",
+            "Nagar-ii",
+            "Chalt"
+          ],
+          "cities": []
+        },
+        {
+          "name": "Rondu",
+          "tehsils": [
+            "Rondu"
+          ],
+          "cities": []
+        },
+        {
+          "name": "Shigar",
+          "tehsils": [
+            "Shigar"
+          ],
+          "cities": []
+        },
+        {
+          "name": "Skardu",
+          "tehsils": [
+            "Skardu",
+            "Gamba",
+            "Gulabpur",
+            "Gultari"
+          ],
+          "cities": []
+        },
+        {
+          "name": "Tangir",
+          "tehsils": [
+            "Tangir"
+          ],
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Islamabad",
+      "districts": [
+        {
+          "name": "Islamabad",
+          "tehsils": [
+            "Islamabad"
+          ],
+          "cities": [
+            "Islamabad",
+            "Mera Jaffar",
+            "Tarnol"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Khyber Pakhtunkhwa",
+      "districts": [
+        {
+          "name": "Abbottabad",
+          "tehsils": [
+            "Abbottabad",
+            "Havelian",
+            "Lora",
+            "Lower Tanawal"
+          ],
+          "cities": [
+            "Abbottabad",
+            "Noor Mang"
+          ]
+        },
+        {
+          "name": "Allai",
+          "tehsils": [
+            "Allai"
+          ],
+          "cities": []
+        },
+        {
+          "name": "Bajaur",
+          "tehsils": [
+            "Bajaur",
+            "Khar",
+            "Mamund",
+            "Salarzai",
+            "Utmankhel"
+          ],
+          "cities": []
+        },
+        {
+          "name": "Bannu",
+          "tehsils": [
+            "Bannu",
+            "Domel",
+            "Baka Khel",
+            "Kakki",
+            "Miryan",
+            "Wazir"
+          ],
+          "cities": [
+            "Bannu"
+          ]
+        },
+        {
+          "name": "Batagram",
+          "tehsils": [
+            "Batagram"
+          ],
+          "cities": []
+        },
+        {
+          "name": "Buner",
+          "tehsils": [
+            "Daggar",
+            "Gagra",
+            "Khado Khel",
+            "Mandanr",
+            "Totalai"
+          ],
+          "cities": [
+            "Dadu",
+            "Daggar"
+          ]
+        },
+        {
+          "name": "Charsadda",
+          "tehsils": [
+            "Charsadda",
+            "Shabqadar",
+            "Tangi"
+          ],
+          "cities": [
+            "Charsadda"
+          ]
+        },
+        {
+          "name": "Chitral",
+          "tehsils": [
+            "Chitral",
+            "Mastuj"
+          ],
+          "cities": [
+            "Chitral"
+          ]
+        },
+        {
+          "name": "Dera Ismail Khan",
+          "tehsils": [
+            "Dera Ismail Khan",
+            "Darazinda",
+            "Kulachi",
+            "Paharpur",
+            "Paroa",
+            "Daraban",
+            "Drazanda",
+            "Paniala"
+          ],
+          "cities": [
+            "Dera Ismail Khan",
+            "Kulachi"
+          ]
+        },
+        {
+          "name": "Dir Lower",
+          "tehsils": [
+            "Adenzai",
+            "Lal Qila",
+            "Samarbagh",
+            "Timergara"
+          ],
+          "cities": []
+        },
+        {
+          "name": "Dir Upper",
+          "tehsils": [
+            "Barawal",
+            "Dir",
+            "Kalkot",
+            "Sharingal"
+          ],
+          "cities": []
+        },
+        {
+          "name": "Hangu",
+          "tehsils": [
+            "Hangu",
+            "Tall"
+          ],
+          "cities": [
+            "Hangu"
+          ]
+        },
+        {
+          "name": "Haripur",
+          "tehsils": [
+            "Ghazi",
+            "Haripur",
+            "Khanpur"
+          ],
+          "cities": [
+            "Haripur"
+          ]
+        },
+        {
+          "name": "Karak",
+          "tehsils": [
+            "Banda Daud Shah",
+            "Karak",
+            "Takht-e-nasrati"
+          ],
+          "cities": [
+            "Karak"
+          ]
+        },
+        {
+          "name": "Khyber",
+          "tehsils": [
+            "Bara",
+            "Jamrud",
+            "Landi Kotal",
+            "Mula Gori"
+          ],
+          "cities": []
+        },
+        {
+          "name": "Kohat",
+          "tehsils": [
+            "Gumbat",
+            "Kohat",
+            "Lachi"
+          ],
+          "cities": [
+            "Kohat"
+          ]
+        },
+        {
+          "name": "Kohistan Lower",
+          "tehsils": [
+            "Kolai Palas",
+            "Pattan",
+            "Ranolia"
+          ],
+          "cities": []
+        },
+        {
+          "name": "Kohistan Upper",
+          "tehsils": [
+            "Dassu",
+            "Kandia",
+            "Harban Basha"
+          ],
+          "cities": []
+        },
+        {
+          "name": "Kolai Palas",
+          "tehsils": [
+            "Kolai",
+            "Palas"
+          ],
+          "cities": []
+        },
+        {
+          "name": "Kurram",
+          "tehsils": [
+            "Lower Kurram",
+            "Central Kurram",
+            "Upper Kurram"
+          ],
+          "cities": [
+            "Parachinar"
+          ]
+        },
+        {
+          "name": "Lakki Marwat",
+          "tehsils": [
+            "Lakki Marwat",
+            "Sarai Naurang",
+            "Bettani",
+            "Ghazni Khel"
+          ],
+          "cities": [
+            "Lakki Marwat"
+          ]
+        },
+        {
+          "name": "Lower South Waziristan",
+          "tehsils": [
+            "Birmil",
+            "Shakai",
+            "Toi Khulla",
+            "Wana"
+          ],
+          "cities": []
+        },
+        {
+          "name": "Upper South Waziristan",
+          "tehsils": [
+            "Ladha",
+            "Makin",
+            "Sararogha",
+            "Sarwakai",
+            "Shaktoi",
+            "Shawal",
+            "Tiarza"
+          ],
+          "cities": []
+        },
+        {
+          "name": "Malakand",
+          "tehsils": [
+            "Batkhela",
+            "Dargai"
+          ],
+          "cities": [
+            "Malakand"
+          ]
+        },
+        {
+          "name": "Mansehra",
+          "tehsils": [
+            "Balakot",
+            "Baffa Pakhal",
+            "Mansehra",
+            "Oghi"
+          ],
+          "cities": [
+            "Mansehra"
+          ]
+        },
+        {
+          "name": "Mardan",
+          "tehsils": [
+            "Katlang",
+            "Mardan",
+            "Takht Bhai"
+          ],
+          "cities": [
+            "Mardan"
+          ]
+        },
+        {
+          "name": "Mohmand",
+          "tehsils": [
+            "Ekka Ghund",
+            "Halimzai",
+            "Pindiali",
+            "Prang Ghar",
+            "Safi",
+            "Upper Mohmand",
+            "Yake Ghund"
+          ],
+          "cities": []
+        },
+        {
+          "name": "North Waziristan",
+          "tehsils": [
+            "Datta Khel",
+            "Dossali",
+            "Garyum",
+            "Ghulam Khan",
+            "Mir Ali",
+            "Miranshah",
+            "Razmak",
+            "Shewa",
+            "Spinwam"
+          ],
+          "cities": []
+        },
+        {
+          "name": "Nowshera",
+          "tehsils": [
+            "Jehangira",
+            "Nowshera",
+            "Pabbi"
+          ],
+          "cities": [
+            "Nowshera",
+            "Risalpur"
+          ]
+        },
+        {
+          "name": "Orakzai",
+          "tehsils": [
+            "Central Orakzai",
+            "Ismailzai",
+            "Lower Orakzai",
+            "Upper Orakzai"
+          ],
+          "cities": []
+        },
+        {
+          "name": "Peshawar",
+          "tehsils": [
+            "Badhber",
+            "Chamkani",
+            "Hassan Khel",
+            "Mathra",
+            "Peshawar City",
+            "Peshtakhara",
+            "Shah Alam"
+          ],
+          "cities": [
+            "Peshawar"
+          ]
+        },
+        {
+          "name": "Shangla",
+          "tehsils": [
+            "Alpuri",
+            "Besham",
+            "Chakesar",
+            "Martung",
+            "Puran"
+          ],
+          "cities": [
+            "Alpuri"
+          ]
+        },
+        {
+          "name": "Swabi",
+          "tehsils": [
+            "Chota Lahor",
+            "Razar",
+            "Swabi",
+            "Topi"
+          ],
+          "cities": [
+            "Ambar",
+            "Swabi"
+          ]
+        },
+        {
+          "name": "Swat",
+          "tehsils": [
+            "Babuzai",
+            "Barikot",
+            "Bahrain",
+            "Charbagh",
+            "Kabal",
+            "Khwazakhela",
+            "Matta"
+          ],
+          "cities": [
+            "Matta",
+            "Mingora",
+            "Saidu Sharif"
+          ]
+        },
+        {
+          "name": "Tank",
+          "tehsils": [
+            "Jandola",
+            "Tank"
+          ],
+          "cities": [
+            "Tank"
+          ]
+        },
+        {
+          "name": "Taunsa",
+          "tehsils": [
+            "Taunsa",
+            "Vehova",
+            "Koh-e-suleman"
+          ],
+          "cities": []
+        },
+        {
+          "name": "Torghar",
+          "tehsils": [
+            "Daur Maira",
+            "Judba",
+            "Khander Hassanzai"
+          ],
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Punjab",
+      "districts": [
+        {
+          "name": "Attock",
+          "tehsils": [
+            "Attock",
+            "Fateh Jang",
+            "Hassan Abdal",
+            "Hazro",
+            "Jand",
+            "Pindi Gheb"
+          ],
+          "cities": [
+            "Akhori",
+            "Attock",
+            "Basal",
+            "Basia",
+            "Bathou",
+            "Boota",
+            "Daurdad",
+            "Dhari Rai Ditta",
+            "Dowal",
+            "Fateh Jang",
+            "Ghakhar",
+            "Gondal",
+            "Haji Shah",
+            "Hasan Abdal",
+            "Hassan Abdal",
+            "Jand",
+            "Lawrencepur",
+            "Mansar",
+            "Mirza",
+            "Momanpur",
+            "Mulwal",
+            "Musa",
+            "Nartopa",
+            "Pindsultani",
+            "Pinjawana",
+            "Shamsabad",
+            "Shinka",
+            "Thatta"
+          ]
+        },
+        {
+          "name": "Bahawalnagar",
+          "tehsils": [
+            "Bahawalnagar",
+            "Chishtian",
+            "Haroonabad",
+            "Minchinabad",
+            "Fort Abbas"
+          ],
+          "cities": [
+            "Bahawalnagar",
+            "Chak 38 3R",
+            "Chishtian",
+            "Dona Qutab Saru",
+            "Dullah Bhadera",
+            "Dunga Bunga",
+            "Faqirwali",
+            "Haroonabad",
+            "Harunabad",
+            "Laleka",
+            "Marot",
+            "Minchinabad",
+            "Qasimka",
+            "Toba Qalandar Shah"
+          ]
+        },
+        {
+          "name": "Bahawalpur",
+          "tehsils": [
+            "Ahmadpur East",
+            "Bahawalpur City",
+            "Yazman",
+            "Bahawalpur Saddar",
+            "Hasilpur",
+            "Khairpur Tamewali"
+          ],
+          "cities": [
+            "Ahmedpur East",
+            "Bahawalpur",
+            "Bait Bakhtiari",
+            "Basti Babbar",
+            "Basti Dhandlah",
+            "Basti Nari",
+            "Dadwala",
+            "Ganehar",
+            "Hasilpur",
+            "Khairpur Tamiwali",
+            "Khanqah Sharif",
+            "Khosa",
+            "Kotla Musa Khan",
+            "Mianwala Kariya",
+            "Muhammadgarh",
+            "Najwaniwala",
+            "Qaimpur",
+            "Yazman"
+          ]
+        },
+        {
+          "name": "Bhakkar",
+          "tehsils": [
+            "Bhakkar",
+            "Darya Khan",
+            "Kalur Kot",
+            "Mankera"
+          ],
+          "cities": [
+            "Abbasian Wala",
+            "Bhakkar",
+            "Chap Sandi",
+            "Darya Khan",
+            "Dhingana",
+            "Kallurkot",
+            "Lapiwala",
+            "Malana Dagar",
+            "Mullanwali",
+            "Mustafaabad",
+            "Notak",
+            "Notak Bhakkar",
+            "Shikar pur"
+          ]
+        },
+        {
+          "name": "Chakwal",
+          "tehsils": [
+            "Chakwal",
+            "Choa Saidan Shah",
+            "Kallar Kahar"
+          ],
+          "cities": [
+            "Arra",
+            "Arrar",
+            "Balkassar",
+            "Balokassar",
+            "Basharat",
+            "Basra",
+            "Begal",
+            "Bhagwal",
+            "Bharpur",
+            "Bhaun",
+            "Bheen",
+            "Bhilomar",
+            "Bhoun",
+            "Bidher",
+            "Buchal Kalan",
+            "Budhial",
+            "Chak Malook",
+            "Chak Umra",
+            "Chakora",
+            "Chakwal",
+            "Chattal",
+            "Choa Ganj Ali Shah",
+            "Choa Saidan Shah",
+            "Choa Saidanshah",
+            "Dab",
+            "Dalwal",
+            "Dandot",
+            "Dhab Kalan",
+            "Dhab Pari",
+            "Dhaular",
+            "Dhok Darbal",
+            "Dhoke Agri",
+            "Dhoular",
+            "Dhrabi",
+            "Dhudial",
+            "Dhulli",
+            "Dhurnal",
+            "Dullah",
+            "Dulmial",
+            "Dumman",
+            "Jabairpur",
+            "Jabbi Shah Dilawar",
+            "Jand Khanzada",
+            "Jassial",
+            "Jaswal",
+            "Karsal",
+            "Karuli",
+            "Karyala",
+            "Khairpur",
+            "Khairpur village",
+            "Khandowa",
+            "Khokhar zer",
+            "Khotian",
+            "Kot Choudrain",
+            "Kot Gullah",
+            "Kot Qazi",
+            "Kot Sarang",
+            "Lehr Sultanpur",
+            "Leti",
+            "Manakpur",
+            "Mangwal",
+            "Miani",
+            "Mohra Awan",
+            "Mulhal Mughlan",
+            "Multan Khurd",
+            "Munara",
+            "Mureed",
+            "Nachindi",
+            "Naka Kahoot",
+            "Narag",
+            "Odherwal",
+            "Padshahan",
+            "Patalian",
+            "Pichnand",
+            "Piera Fatehial",
+            "Pirwal",
+            "Ranjhe",
+            "Ransial",
+            "Rehmanabad",
+            "Rupwal",
+            "Saghar",
+            "Sahgalabad",
+            "Saral",
+            "Tehi",
+            "Thoa Mehram Khan",
+            "Warwal"
+          ]
+        },
+        {
+          "name": "Talagang",
+          "tehsils": [
+            "Talagang",
+            "Lawa"
+          ],
+          "cities": []
+        },
+        {
+          "name": "Chiniot",
+          "tehsils": [
+            "Bhowana",
+            "Chiniot",
+            "Lalian"
+          ],
+          "cities": [
+            "Arbianwala",
+            "Balianwala",
+            "Chiniot",
+            "Hast Khewa",
+            "Kot Ismail",
+            "Lalian",
+            "Mauza Sulemaan",
+            "Rabwah",
+            "Thatta Jhamb"
+          ]
+        },
+        {
+          "name": "Dera Ghazi Khan",
+          "tehsils": [
+            "Dera Ghazi Khan",
+            "Kot Chutta"
+          ],
+          "cities": [
+            "Aaliwala",
+            "Bahadur Garh",
+            "Barthi",
+            "Basti Buzdar",
+            "Basti Fauja",
+            "Basti Malana",
+            "Choti Zerine",
+            "Chotibala",
+            "Churatta",
+            "Darkhast Jamal Khan",
+            "Dera Ghazi Khan",
+            "Drahma",
+            "Fateh Khan",
+            "Fazal Katchh",
+            "Gadai",
+            "Ghaus Abad",
+            "Gulzar Khanwala",
+            "Gulzarwala",
+            "Haji Ghazi",
+            "Hero Sharqi",
+            "Jakhar Imam Shah",
+            "Jaluwali",
+            "Jhoke Uttra",
+            "Khakhi",
+            "Kot Haibat",
+            "Kot Mubarak",
+            "Kot Qaisrani",
+            "Lakhani",
+            "Makwal Kalan",
+            "Mamoori",
+            "Mana Ahmadani",
+            "Manghrotha",
+            "Mangrotha",
+            "Morejhangi",
+            "Mutafariq Chahan",
+            "Nari Shumali",
+            "Nawan",
+            "Paigah",
+            "Palia",
+            "Pir Adil",
+            "Ramin",
+            "Rangewala",
+            "Samina",
+            "Shah Sadar Din",
+            "Sokar",
+            "Taunsa Sharif",
+            "Tibbi Qaisrani",
+            "Tuman Leghari",
+            "Tuman Qaisrani",
+            "Wadore"
+          ]
+        },
+        {
+          "name": "Jampur",
+          "tehsils": [
+            "Muhammadpur",
+            "Jampur",
+            "Dajal",
+            "Jampur Tribal Area"
+          ],
+          "cities": []
+        },
+        {
+          "name": "Faisalabad",
+          "tehsils": [
+            "Faisalabad City",
+            "Faisalabad Sadar",
+            "Jaranwala",
+            "Tandlianwala",
+            "Samundri",
+            "Chak Jhumra"
+          ],
+          "cities": [
+            "Aminpur",
+            "Banga",
+            "Chak 217 GB",
+            "Chicha",
+            "Dasuha",
+            "Dijkot",
+            "Faisalabad",
+            "Jagdeo",
+            "Jaranwala",
+            "Kohali",
+            "Kutruwal",
+            "Lopoke",
+            "Mumbhar",
+            "Raisanwala",
+            "Risalapur",
+            "Rurala Road",
+            "Samundri",
+            "Satiana",
+            "Surajpur",
+            "Tandlianwala",
+            "Taran Taran",
+            "Tekgarh"
+          ]
+        },
+        {
+          "name": "Gujranwala",
+          "tehsils": [
+            "Gujranwala City",
+            "Gujranwala Saddar",
+            "Kamoke",
+            "Nowshera Virkan"
+          ],
+          "cities": [
+            "Ahmed Nager Chatha",
+            "Ali Pur Chatta",
+            "Alipur Chatha",
+            "Dabri",
+            "Daharowal",
+            "Eimen Abad",
+            "Gujranwala",
+            "Kot Waris",
+            "Mahay Chattha",
+            "Qila Mihan Singh",
+            "Raja",
+            "Rana Colony",
+            "Sadhoke",
+            "Saroke",
+            "Sodhra",
+            "Sujowali",
+            "Wazirabad"
+          ]
+        },
+        {
+          "name": "Wazirabad",
+          "tehsils": [
+            "Wazirabad",
+            "Ali Pur Chatha"
+          ],
+          "cities": []
+        },
+        {
+          "name": "Gujrat",
+          "tehsils": [
+            "Gujrat",
+            "Kharian",
+            "Sarai Alamgir"
+          ],
+          "cities": [
+            "Achh",
+            "Addowal",
+            "Ajnala",
+            "Alamgarh",
+            "Amra Kalan",
+            "Atma Singh",
+            "Bagrianwala",
+            "Baharwal",
+            "Bajarwala",
+            "Bareela",
+            "Barnali",
+            "Baroo",
+            "Bator",
+            "Bazurgwal",
+            "Beharaj",
+            "Behlolpur",
+            "Bhaddar",
+            "Bhago",
+            "Bido Bhatti",
+            "Chak Manju",
+            "Chakori Bhalowal",
+            "Chakori Sher Ghazi",
+            "Chechian",
+            "Chhimber",
+            "Chhokar Kalan",
+            "Chopala",
+            "Deona Mandi",
+            "Dhakkar",
+            "Dhoria",
+            "Dhunni",
+            "Dinga",
+            "Fateh Bhand",
+            "Ghurko",
+            "Gochh",
+            "Gujrat",
+            "Guliana",
+            "Gunja",
+            "Haji Chak",
+            "Haji Muhammad",
+            "Hariawala",
+            "Jalalpur Jattan",
+            "Jaura",
+            "Kante pind",
+            "Karnana",
+            "Kathala Chenab",
+            "Kharian",
+            "Kotha Gujjran",
+            "Kotla Arab Ali Khan",
+            "Kotla Sarang Khan",
+            "Kunjah",
+            "Kurree",
+            "Ladian",
+            "Lala Musa",
+            "Lalamusa",
+            "Longo",
+            "Malikpur",
+            "Malka",
+            "Mandeer",
+            "Manglia",
+            "Mari Waraichan",
+            "Miana Chak",
+            "Mirza Tahir",
+            "Nandwal",
+            "Noonanwali",
+            "Panjan Kissana",
+            "Pir Jand",
+            "Qila Sura Singh",
+            "Roulia",
+            "Sabour",
+            "Sehna",
+            "Sikaryali",
+            "Thikrian",
+            "Thutha Rai Bahadar"
+          ]
+        },
+        {
+          "name": "Hafizabad",
+          "tehsils": [
+            "Hafizabad",
+            "Pindi Bhattian"
+          ],
+          "cities": [
+            "Hafizabad",
+            "Jalalpur Bhattian",
+            "Kaleke",
+            "Kot Hasan Khan",
+            "Pindi Bhattian",
+            "Thatha Shamsa",
+            "Thatha shamsa"
+          ]
+        },
+        {
+          "name": "Jhang",
+          "tehsils": [
+            "Jhang",
+            "Shorkot",
+            "18 Hazari",
+            "Ahmadpur Sial"
+          ],
+          "cities": [
+            "Ahmedpur Sial",
+            "Athara Hazari",
+            "Dargahi Shah",
+            "Garh Maharaja",
+            "Garh More",
+            "Jabboana",
+            "Jhang",
+            "Kot Isa Shah",
+            "Mari Shah Sakhira",
+            "Qaim Bharwana",
+            "Ratta Matta",
+            "Rodu Sultan",
+            "Shorkot"
+          ]
+        },
+        {
+          "name": "Jhelum",
+          "tehsils": [
+            "Dina",
+            "Jhelum",
+            "Pind Dadan Khan",
+            "Sohawa"
+          ],
+          "cities": [
+            "Adrana",
+            "Ahmedabad",
+            "Aima Bari",
+            "Arain Abad",
+            "Badlot",
+            "Bhelowal",
+            "Bhoanj",
+            "Bishan Daur",
+            "Chak Jamal",
+            "Chak Jani",
+            "Chak Khasa",
+            "Chak Shadi",
+            "Chakri Rajgan",
+            "Choran",
+            "Chotala",
+            "Dandot RS",
+            "Darapur",
+            "Daulatpur",
+            "Dhanyala",
+            "Dharyala Jalap",
+            "Dhudhi Phapra",
+            "Dina",
+            "Domeli",
+            "Garh Mahal",
+            "Gharibwal",
+            "Gujjar",
+            "Jajial",
+            "Jhelum",
+            "Kala Gujran",
+            "Kandwal",
+            "Kantrila",
+            "Kantrili",
+            "Kaslian",
+            "Kora Punjab",
+            "Kotla Faqir",
+            "Lehri",
+            "Lilla",
+            "Madu Kalas",
+            "Malot",
+            "Monan",
+            "Motian",
+            "Mughalabad",
+            "Nagial",
+            "Nakka Kalan",
+            "Nakka Khurd",
+            "Nara",
+            "Noor Pur Sayedan",
+            "Pail Bane Khan",
+            "Pandori",
+            "Phulrey Sydan",
+            "Pind Dadan Khan",
+            "Pind Matay Khan",
+            "Pindi Saidpur",
+            "Pipli Jhelum",
+            "Rahna",
+            "Ranjha",
+            "Sanghoi",
+            "Saroba Punjab",
+            "Sauwal",
+            "Sawer",
+            "Shamaspur",
+            "Sodian Gujar",
+            "Sohan",
+            "Sohawa",
+            "Sultanpur",
+            "Tobah"
+          ]
+        },
+        {
+          "name": "Kasur",
+          "tehsils": [
+            "Chunian",
+            "Kasur",
+            "Kot Radha Kishan",
+            "Pattoki"
+          ],
+          "cities": [
+            "Alpa Kalan",
+            "Baghiana Kalan",
+            "Bahadurpura",
+            "Balloki",
+            "Bazidpur",
+            "Beharwal Kalan",
+            "Bhagiwal",
+            "Bhamba Kalan",
+            "Bhedian Kalan",
+            "Bhoe Asal",
+            "Bohge",
+            "Chahal",
+            "Chanda Singh Wala",
+            "Chathian Wala",
+            "Chunian",
+            "Daftuh",
+            "Deo Sial",
+            "Dhainke",
+            "Dholan Hithar",
+            "Fattiwala",
+            "Gohar",
+            "Gop-e-Rah",
+            "Govindpura",
+            "Grinkot",
+            "Halla",
+            "Jaguwala",
+            "Jajjal",
+            "Jamber Khurd",
+            "Jamsher Kalan",
+            "Jamsher Khurd",
+            "Kanganpur",
+            "Kasur",
+            "Khai Hithar",
+            "Khudian",
+            "Kot Abbas Pura",
+            "Kot Radha Kishan",
+            "Kotha",
+            "Kotli Rai Abubakar",
+            "Kull",
+            "Mabboki",
+            "Mahrawali",
+            "Mahtaman",
+            "Manuri",
+            "Mudke Dhariwal",
+            "Mundayki",
+            "Nainwal Khalsa",
+            "Najabat",
+            "Nathoki",
+            "Orara",
+            "Pattoki",
+            "Phool Nagar",
+            "Phulliani",
+            "Pial Kalan",
+            "Rafiq Villas",
+            "Raja Jang",
+            "Rajowal Nau",
+            "Rathor",
+            "Sehjra",
+            "Sherewala",
+            "Sikandar Pura",
+            "Talwandi",
+            "Tangrian",
+            "Targa",
+            "Usman Wala",
+            "Wan Adhen",
+            "Wan Khara",
+            "Wan Radha Ram",
+            "Zafarke"
+          ]
+        },
+        {
+          "name": "Khanewal",
+          "tehsils": [
+            "Jahanian",
+            "Kabirwala",
+            "Khanewal",
+            "Mian Channu"
+          ],
+          "cities": [
+            "Abdul Hakeem",
+            "Atari",
+            "Faridkot",
+            "Jamesabad",
+            "Kabirwala",
+            "Khanewal",
+            "Mian Channu",
+            "Mian Channun"
+          ]
+        },
+        {
+          "name": "Khushab",
+          "tehsils": [
+            "Khushab",
+            "Noorpur Thal",
+            "Quaidabad",
+            "Naushera"
+          ],
+          "cities": [
+            "Adhi Kot",
+            "Anga",
+            "Bandial Janubi",
+            "Bijar",
+            "Botala",
+            "Chak Fourteen MB",
+            "Chak No.21/MB",
+            "Daiwal",
+            "Golewali",
+            "Gunjial Janubi",
+            "Hadali",
+            "Jabi",
+            "Jamali Noorpur",
+            "Jauharabad",
+            "Jauharabad-I",
+            "Jauharabad-II",
+            "Jaura Kalan",
+            "Jharkal",
+            "Kasan Wala",
+            "Khabaki",
+            "Khai Khurd",
+            "Khatwan",
+            "Khoora",
+            "Khushab",
+            "Kufri",
+            "Kund",
+            "Mardwal",
+            "Nali Shumali",
+            "Nari",
+            "Naushera",
+            "Noorpur",
+            "Okhali Mohlah",
+            "Pelowaince",
+            "Rahdari",
+            "Rajar",
+            "Rangpur",
+            "Roda",
+            "Sandral",
+            "Sodhi Bala",
+            "Tilloker",
+            "Uchalli",
+            "Utra Janubi",
+            "Waheer",
+            "Warcha"
+          ]
+        },
+        {
+          "name": "Lahore",
+          "tehsils": [
+            "Lahore Cantt",
+            "Lahore City",
+            "Model Town",
+            "Raiwind",
+            "Shalimar",
+            "Wahga"
+          ],
+          "cities": [
+            "Bilochwala",
+            "Bismillapur",
+            "Changa Manga",
+            "Ghator",
+            "Gobindsar",
+            "Goughabad",
+            "Hari Singwala",
+            "Kalyan",
+            "Khushipur",
+            "Kot Chandi",
+            "Kot Guraya",
+            "Kot Rajput",
+            "Lahore",
+            "Lehna Singhwala",
+            "Manak",
+            "Miranpur",
+            "Phadiara",
+            "Pollard Kot",
+            "Raiwind",
+            "Rampur",
+            "Rodasar",
+            "Rurki",
+            "Sahibnagar",
+            "Saroi",
+            "Singh Khalsa",
+            "Targarh"
+          ]
+        },
+        {
+          "name": "Layyah",
+          "tehsils": [
+            "Chaubara",
+            "Layyah",
+            "Karor Lal Esan"
+          ],
+          "cities": [
+            "Chowk Azam",
+            "Karor Lal Esan",
+            "Layyah",
+            "Mangewala",
+            "Sohianwala"
+          ]
+        },
+        {
+          "name": "Lodhran",
+          "tehsils": [
+            "Dunyapur",
+            "Kahror Pacca",
+            "Lodhran"
+          ],
+          "cities": [
+            "Lodhran",
+            "Pathan Walla"
+          ]
+        },
+        {
+          "name": "Mandi Bahauddin",
+          "tehsils": [
+            "Malakwal",
+            "Mandi Bahauddin",
+            "Phalia"
+          ],
+          "cities": [
+            "Ahla",
+            "Ajjowal",
+            "Baddo",
+            "Bhikhi",
+            "Bhindar Kalan",
+            "Chakbasawa",
+            "Chhimmon",
+            "Chillianwala",
+            "Dhapai",
+            "Dhok Kasib",
+            "Dilawar",
+            "Gulzar",
+            "Jaisak",
+            "Jayya",
+            "Kadhar",
+            "Kakowal",
+            "Kattowal",
+            "Khewa",
+            "Khewa Shareef",
+            "Kirtowal",
+            "Kotehra",
+            "Kuthiala Sheikhan",
+            "Lolianwali",
+            "Malakwal",
+            "Malikwal",
+            "Mandi Bahauddin",
+            "Mangat",
+            "Mianwal",
+            "Mong",
+            "Murala",
+            "Nain",
+            "Pahrianwali",
+            "Pindi Bahauddin",
+            "Qadirabad",
+            "Rasul",
+            "Sahna",
+            "Samunpur",
+            "Shaheedanwali",
+            "Wara Alam Shah",
+            "Wasu"
+          ]
+        },
+        {
+          "name": "Mianwali",
+          "tehsils": [
+            "Isakhel",
+            "Mianwali",
+            "Piplan"
+          ],
+          "cities": [
+            "Abba khel",
+            "Alluwali",
+            "Ban Hafiz Jee",
+            "Chapri",
+            "Chhidru",
+            "Dabb Balouchan",
+            "Daud Khel",
+            "Dher Umid Ali Shah",
+            "Doaba",
+            "Gullen khel",
+            "Hernoli",
+            "Isakhel",
+            "Kalabagh",
+            "Kallur",
+            "Kamar Mushani",
+            "Kamar Mushani Pakka",
+            "Khaglan Wala",
+            "Khola At Khanqah Sirajia",
+            "Kot Chandna",
+            "Kundian",
+            "Makerwal",
+            "Mari",
+            "Mianwali",
+            "Mochh",
+            "Muzafarpur Janubi",
+            "Muzafarpur Shumali",
+            "Namal",
+            "Paikhel",
+            "Qureshian",
+            "Rokhri",
+            "Sawans-Mianwali",
+            "Shadia",
+            "Sultan Khel",
+            "Swans",
+            "Tanikhel",
+            "Thamewali",
+            "Tibba Mehrban Shah",
+            "Tola Bhangi Khel",
+            "Trag",
+            "Vanjari",
+            "Vichvin Bala",
+            "Watta Khel",
+            "Yaru Khel"
+          ]
+        },
+        {
+          "name": "Multan",
+          "tehsils": [
+            "Jalalpur Pirwala",
+            "Multan City",
+            "Multan Saddar",
+            "Shujabad"
+          ],
+          "cities": [
+            "Kumarwala",
+            "Mehmood Kot",
+            "Multan",
+            "Shah Rukan e Alam",
+            "Sher Shah",
+            "Shujabad"
+          ]
+        },
+        {
+          "name": "Muzaffargarh",
+          "tehsils": [
+            "Alipur",
+            "Jatoi",
+            "Muzaffargarh"
+          ],
+          "cities": [
+            "Gamoon wala",
+            "Khar",
+            "Kot Addu",
+            "Makhan Baila",
+            "Muzaffargarh",
+            "Qasba Gujrat",
+            "Rohilanwali"
+          ]
+        },
+        {
+          "name": "Kot Addu",
+          "tehsils": [
+            "Kot Addu",
+            "Chowk Sarwar Shaheed"
+          ],
+          "cities": []
+        },
+        {
+          "name": "Nankana Sahib",
+          "tehsils": [
+            "Nankana Sahib",
+            "Sangla Hill",
+            "Shahkot"
+          ],
+          "cities": [
+            "Bucheki",
+            "Khunda More",
+            "Mangtanwala",
+            "Nankana Sahib",
+            "Panwan",
+            "Sangla Hill",
+            "Shah Purah",
+            "Warburton"
+          ]
+        },
+        {
+          "name": "Narowal",
+          "tehsils": [
+            "Narowal",
+            "Shakargarh",
+            "Zafarwal"
+          ],
+          "cities": [
+            "Baddomalhi",
+            "Chandarkey Rajputan",
+            "Faridpur",
+            "Harar khurd",
+            "Narowal",
+            "Qila Sobha Singh",
+            "Shakargarh",
+            "Sukhochak",
+            "Tapyala",
+            "Zafarwal"
+          ]
+        },
+        {
+          "name": "Okara",
+          "tehsils": [
+            "Depalpur",
+            "Okara",
+            "Renala Khurd"
+          ],
+          "cities": [
+            "Ahmadabad",
+            "Arjun Singhwali",
+            "Berianwali",
+            "Burj Jeway Khan",
+            "Dipalpur",
+            "Gogera",
+            "Haveli Lakha",
+            "Hujra Shah Muqeem",
+            "Hujra Shah Muqim",
+            "Jaboka",
+            "Kaman",
+            "Lumbri",
+            "Mali Singh",
+            "Mansuwala",
+            "Maruf",
+            "Muhib Ali Uttar",
+            "Okara",
+            "Renala Khurd",
+            "Satgarah Okara",
+            "Satghara",
+            "Sluice"
+          ]
+        },
+        {
+          "name": "Pakpattan",
+          "tehsils": [
+            "Arifwala",
+            "Pakpattan"
+          ],
+          "cities": [
+            "Arifwala",
+            "Bunga Hayat",
+            "Chak No. 69/EB Ugroo",
+            "Faizpur",
+            "Pakpattan",
+            "Uguana"
+          ]
+        },
+        {
+          "name": "Rahim Yar Khan",
+          "tehsils": [
+            "Khanpur",
+            "Liaquatpur",
+            "Rahim Yar Khan",
+            "Sadiqabad",
+            "Khanpur Katora"
+          ],
+          "cities": [
+            "Bangla Manthar",
+            "Bhong",
+            "Chak no 7/p",
+            "Firoza",
+            "Khanpur",
+            "Kot Karam Khan",
+            "Liaqauatpur",
+            "Rahim Yar Khan",
+            "Saddiqabad",
+            "Sadiqabad",
+            "Walana",
+            "Zahir Pir"
+          ]
+        },
+        {
+          "name": "Rajanpur",
+          "tehsils": [
+            "De-excluded Area Rajanpur",
+            "Rajanpur",
+            "Rojhan"
+          ],
+          "cities": [
+            "Dajal",
+            "Jampur",
+            "Mehraywala",
+            "Mithankot",
+            "Rajanpur",
+            "Rasool Pur",
+            "Rojhan"
+          ]
+        },
+        {
+          "name": "Rawalpindi",
+          "tehsils": [
+            "Gujar Khan",
+            "Kahuta",
+            "Kallar Syedan",
+            "Rawalpindi",
+            "Taxila",
+            "Daultala"
+          ],
+          "cities": [
+            "Adiala",
+            "Arazi Hasnal",
+            "Badnian",
+            "Boken",
+            "Chaklala",
+            "Changa Bangial",
+            "Chountra",
+            "Dadhocha",
+            "Dakhali",
+            "Devi",
+            "Dhalla",
+            "Dhamiak",
+            "Dhamial",
+            "Dhok Gohar Shah",
+            "Gujar Khan",
+            "Hothla",
+            "Jairo Ratial",
+            "Jand Najjar",
+            "Janhatal",
+            "Jarmot Kalan",
+            "Jhatla",
+            "Kahuta",
+            "Kallar Syedan",
+            "Kathrian",
+            "Khasala Kalan",
+            "Khasala Khurd",
+            "Khinger Kalan",
+            "Khinger Khurd",
+            "Mal Awan",
+            "Matore",
+            "Mohra Noori",
+            "Nara Matore",
+            "Panjar",
+            "Rawalpindi",
+            "Taxila",
+            "Thakra",
+            "Wah Cantonment"
+          ]
+        },
+        {
+          "name": "Murree",
+          "tehsils": [
+            "Murree",
+            "Kotli Sattian"
+          ],
+          "cities": []
+        },
+        {
+          "name": "Sahiwal",
+          "tehsils": [
+            "Chichawatni",
+            "Sahiwal"
+          ],
+          "cities": [
+            "Addepur",
+            "Agra",
+            "Asghari",
+            "Bashera",
+            "Chak 40 GB",
+            "Chak 44/12.L",
+            "Charat Singhwala",
+            "Chichawatni",
+            "Gulistan",
+            "Lalewala",
+            "Mirbaz",
+            "Paharewala",
+            "Qasimabad",
+            "Sahiwal",
+            "Sikhanwala",
+            "Tirathpur"
+          ]
+        },
+        {
+          "name": "Sargodha",
+          "tehsils": [
+            "Bhalwal",
+            "Bhera",
+            "Kot Momin",
+            "Sahiwal",
+            "Sargodha",
+            "Shahpur",
+            "Sillanwali"
+          ],
+          "cities": [
+            "Bakhar Bar",
+            "Bhalwal",
+            "Bhera",
+            "Bhikhi Khurd",
+            "Chak 104 NB",
+            "Chak 3",
+            "Davispur",
+            "Hadda",
+            "Haveli Majoka",
+            "Islam Pur Lokari",
+            "Jahanawala",
+            "Kasupur Dulhar",
+            "Khan Muhammad Wala",
+            "Kohlian",
+            "Mona Punjab",
+            "Naseer Pur Kalan",
+            "Phularwan",
+            "Pind Rahim Shah",
+            "Pind Ranjha",
+            "Purana Bhalwal",
+            "Sargodha",
+            "Shah Nikdur",
+            "Shahpur",
+            "Sillanwali",
+            "Zaffer Abad Noon"
+          ]
+        },
+        {
+          "name": "Sheikhupura",
+          "tehsils": [
+            "Ferozewala",
+            "Muridke",
+            "Safdarabad",
+            "Sharaqpur",
+            "Sheikhupura"
+          ],
+          "cities": [
+            "Ferozewala",
+            "Jandiala Sher Khan",
+            "Kalsian",
+            "Kalsian Bhattian",
+            "Mananwala",
+            "Muridke",
+            "Narang Mandi",
+            "Safdarabad",
+            "Sharaqpur",
+            "Sheikhupura"
+          ]
+        },
+        {
+          "name": "Sialkot",
+          "tehsils": [
+            "Daska",
+            "Pasrur",
+            "Sambrial",
+            "Sialkot"
+          ],
+          "cities": [
+            "Adamke",
+            "Baddoke Cheema",
+            "Bairi",
+            "Begowala",
+            "Bhagot",
+            "Chakchohdu village",
+            "Chawinda",
+            "Chhowni Sulehrian",
+            "Dallowali",
+            "Daska",
+            "Dhallewali",
+            "Gerbla Syedan",
+            "Janewali",
+            "Jathekey",
+            "Kapurpur",
+            "Kotli Loharan East",
+            "Mallu-Chhitt",
+            "Mandranwala",
+            "Mianwali Bangla",
+            "Paira",
+            "Pasrur",
+            "Pind Brahmanan",
+            "Sadda",
+            "Sambrial",
+            "Sattoke",
+            "Sialkot",
+            "Wadala Sandhuan",
+            "Wan"
+          ]
+        },
+        {
+          "name": "Toba Tek Singh",
+          "tehsils": [
+            "Gojra",
+            "Kamalia",
+            "Toba Tek Singh",
+            "Pirmahal"
+          ],
+          "cities": [
+            "Aligarh",
+            "Angadpura",
+            "Bilasur",
+            "Chak 285 JB",
+            "Chak 667/8 GB",
+            "Chak 720 GB",
+            "Gariwal",
+            "Gojra",
+            "Janiwala",
+            "Kamalia",
+            "Nanaksar",
+            "Pir Mahal",
+            "Randian",
+            "Rashiana",
+            "Sandhilianwali",
+            "Toba Tek Singh",
+            "Zira Nawan"
+          ]
+        },
+        {
+          "name": "Vehari",
+          "tehsils": [
+            "Burewala",
+            "Mailsi",
+            "Vehari"
+          ],
+          "cities": [
+            "Angakiri",
+            "Burewala",
+            "Chak 571/EB",
+            "Mailsi",
+            "Vehari"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sindh",
+      "districts": [
+        {
+          "name": "Badin",
+          "tehsils": [
+            "Badin",
+            "Khoski",
+            "Matli",
+            "Shaheed Fazil Rahu",
+            "Talhar",
+            "Tando Bago"
+          ],
+          "cities": [
+            "Badin"
+          ]
+        },
+        {
+          "name": "Dadu",
+          "tehsils": [
+            "Dadu",
+            "Johi",
+            "Khairpur Nathan Shah",
+            "Mehar"
+          ],
+          "cities": []
+        },
+        {
+          "name": "Ghotki",
+          "tehsils": [
+            "Daharki",
+            "Ghotki",
+            "Khangarh",
+            "Mirpur Mathelo",
+            "Ubauro"
+          ],
+          "cities": [
+            "Ghotki"
+          ]
+        },
+        {
+          "name": "Hyderabad",
+          "tehsils": [
+            "Hyderabad City",
+            "Hyderabad Rural",
+            "Latifabad",
+            "Qasimabad"
+          ],
+          "cities": [
+            "Hyderabad"
+          ]
+        },
+        {
+          "name": "Jacobabad",
+          "tehsils": [
+            "Garhi Khairo",
+            "Jacobabad",
+            "Thul"
+          ],
+          "cities": [
+            "Jacobabad",
+            "Khairo"
+          ]
+        },
+        {
+          "name": "Jamshoro",
+          "tehsils": [
+            "Kotri",
+            "Manjhand",
+            "Sehwan",
+            "Thana Bulla Khan"
+          ],
+          "cities": [
+            "Jamshoro",
+            "Sehwan Sharif"
+          ]
+        },
+        {
+          "name": "Karachi Central",
+          "tehsils": [
+            "Gulberg",
+            "Liaquatabad",
+            "Nazimabad",
+            "North Karachi",
+            "North Nazimabad"
+          ],
+          "cities": []
+        },
+        {
+          "name": "Karachi East",
+          "tehsils": [
+            "Ferozabad",
+            "Gulshan-e-iqbal",
+            "Gulzar-e-hijri",
+            "Jamshed Quarters",
+            "Saddar"
+          ],
+          "cities": []
+        },
+        {
+          "name": "Karachi South",
+          "tehsils": [
+            "Aram Bagh",
+            "Civil Line",
+            "Garden",
+            "Lyari",
+            "Saddar"
+          ],
+          "cities": []
+        },
+        {
+          "name": "Karachi West",
+          "tehsils": [
+            "Mango Pir",
+            "Mominabad",
+            "Orangi"
+          ],
+          "cities": []
+        },
+        {
+          "name": "Keamari",
+          "tehsils": [
+            "Keamari",
+            "Harbour",
+            "Baldia",
+            "Mauripur",
+            "Site"
+          ],
+          "cities": []
+        },
+        {
+          "name": "Kashmore",
+          "tehsils": [
+            "Kandhkot",
+            "Kashmore",
+            "Tangwani"
+          ],
+          "cities": [
+            "Kandhkot"
+          ]
+        },
+        {
+          "name": "Khairpur",
+          "tehsils": [
+            "Faiz Ganj",
+            "Gambat",
+            "Khairpur",
+            "Kingri",
+            "Kotdiji",
+            "Nara",
+            "Sobhodero",
+            "Thari Mirwah"
+          ],
+          "cities": []
+        },
+        {
+          "name": "Korangi",
+          "tehsils": [
+            "Korangi",
+            "Landhi",
+            "Model Colony",
+            "Shah Faisal"
+          ],
+          "cities": []
+        },
+        {
+          "name": "Larkana",
+          "tehsils": [
+            "Bakrani",
+            "Dokri",
+            "Larkana",
+            "Ratodero"
+          ],
+          "cities": [
+            "Larkana"
+          ]
+        },
+        {
+          "name": "Malir",
+          "tehsils": [
+            "Bin Qasim",
+            "Gadap",
+            "Ibrahim Hyderi",
+            "Malir",
+            "Murad Memon"
+          ],
+          "cities": []
+        },
+        {
+          "name": "Matiari",
+          "tehsils": [
+            "Hala",
+            "Matiari",
+            "Saeedabad"
+          ],
+          "cities": [
+            "Matiari"
+          ]
+        },
+        {
+          "name": "Mirpur Khas",
+          "tehsils": [
+            "Digri",
+            "Hussain Bux Marri",
+            "Jhuddo",
+            "Kot Ghulam Muhammad",
+            "Mirpur Khas",
+            "Shujabad",
+            "Sindhri"
+          ],
+          "cities": [
+            "Mirpur Khas"
+          ]
+        },
+        {
+          "name": "Naushahro Feroze",
+          "tehsils": [
+            "Bhiria",
+            "Kandiaro",
+            "Mehrabpur",
+            "Moro",
+            "Naushahro Feroze"
+          ],
+          "cities": []
+        },
+        {
+          "name": "Qambar Shahdadkot",
+          "tehsils": [
+            "Miro Khan",
+            "Nasirabad",
+            "Qambar",
+            "Qubo Saeed Khan",
+            "Shahdadkot",
+            "Sijawal Junejo",
+            "Warah"
+          ],
+          "cities": []
+        },
+        {
+          "name": "Sanghar",
+          "tehsils": [
+            "Jam Nawaz Ali",
+            "Khipro",
+            "Sanghar",
+            "Shahdadpur",
+            "Sinjhoro",
+            "Tando Adam"
+          ],
+          "cities": [
+            "Sanghar"
+          ]
+        },
+        {
+          "name": "Shaheed Benazirabad",
+          "tehsils": [
+            "Daur",
+            "Kazi Ahmed",
+            "Nawabshah",
+            "Sakrand"
+          ],
+          "cities": [
+            "Nawabshah"
+          ]
+        },
+        {
+          "name": "Shikarpur",
+          "tehsils": [
+            "Garhi Yasin",
+            "Khanpur",
+            "Lakhi",
+            "Shikarpur"
+          ],
+          "cities": [
+            "Shikarpur"
+          ]
+        },
+        {
+          "name": "Sujawal",
+          "tehsils": [
+            "Jati",
+            "Kharo Chan",
+            "Mirpur Bathoro",
+            "Shah Bandar",
+            "Sujawal"
+          ],
+          "cities": []
+        },
+        {
+          "name": "Sukkur",
+          "tehsils": [
+            "New Sukkur",
+            "Pano Aqil",
+            "Rohri",
+            "Salehpat",
+            "Sukkur City"
+          ],
+          "cities": [
+            "Sukkur"
+          ]
+        },
+        {
+          "name": "Tando Allahyar",
+          "tehsils": [
+            "Chamber",
+            "Jhando Mari",
+            "Tando Allahyar",
+            "Naserpur"
+          ],
+          "cities": [
+            "Tando Allahyar"
+          ]
+        },
+        {
+          "name": "Tando Muhammad Khan",
+          "tehsils": [
+            "Bulri Shah Karim",
+            "Tando Ghulam Hyder",
+            "Tando Muhammad Khan"
+          ],
+          "cities": [
+            "Tando Muhammad Khan"
+          ]
+        },
+        {
+          "name": "Tharparkar",
+          "tehsils": [
+            "Chachro",
+            "Dahli",
+            "Diplo",
+            "Islamkot",
+            "Kaloi",
+            "Mithi",
+            "Nagarparkar"
+          ],
+          "cities": []
+        },
+        {
+          "name": "Thatta",
+          "tehsils": [
+            "Ghorabari",
+            "Keti Bunder",
+            "Mirpur Sakro",
+            "Thatta"
+          ],
+          "cities": []
+        },
+        {
+          "name": "Umerkot",
+          "tehsils": [
+            "Kunri",
+            "Pithoro",
+            "Samaro",
+            "Umerkot"
+          ],
+          "cities": [
+            "Umerkot"
+          ]
+        }
+      ]
+    }
+  ]
+}
