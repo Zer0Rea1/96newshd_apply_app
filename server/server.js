@@ -9,4 +9,4 @@ mongoose.connect(process.env.MONGODB_URI)
   })
   .catch(console.error)
 
-module.export = app
+module.exports = app
